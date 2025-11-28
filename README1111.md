@@ -16,6 +16,8 @@
 ### 案例三和四func getKVStore\<T>(String, KVOptions) where T \<: SingleKVStore
 
 
+------------
+---分割线---------
 
 
 [案例三](./README1111.md#--singlekvstore)
