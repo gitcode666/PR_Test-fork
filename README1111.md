@@ -1,11 +1,14 @@
-示例一[^1]，示例二[^note]。示例三[^demo]，示例四[^demo2].
+示例一[^1]，示例二[^note]。示例三[^demo]，示例四[^demo2].示例五[^demo3]
 
 [^1]: 第一个注脚。
 [^note]: 第二个注脚。
 
-[^demo]: 第三个注脚[5.1](#案例一：id-custom-anchor)
-[^demo2]: 更多信息参见 [官网](https://gitcode.com)。
+[^demo]: 第三个注脚,跳id[5.1](#custom-anchor)
+[^demo2]: 第四个注脚，跳链接 [官网](https://gitcode.com)。
+[^demo3]: 第五个注脚,跳H1[5.1](#5.1复用MindSpeed训练优化)
 
+
+# 5.1 复用MindSpeed训练优化
 
 -----------------
 
